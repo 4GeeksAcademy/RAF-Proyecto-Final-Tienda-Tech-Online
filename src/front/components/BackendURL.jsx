@@ -21,3 +21,5 @@ export const BackendURL = () => (
 		<p>Note: If you are publishing your website to Heroku, Render.com or any other hosting you probably need to follow other steps.</p>
 	</div>
 );
+
+//ESTE COMPONENTE APARECE SI NO ESTÀ DEFINIDA LA RUTA DE BAACKEN EN .ENV 
